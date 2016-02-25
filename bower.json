@@ -1,0 +1,20 @@
+{
+  "name": "bem-store",
+  "version": "0.1.0",
+  "authors": [
+    "Dmitry Dushkin <dndushkin@gmail.com>"
+  ],
+  "description": "Redux-like store on i-bem",
+  "keywords": [
+    "i-bem"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/DimitryDushkin/bem-store",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
