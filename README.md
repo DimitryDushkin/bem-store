@@ -24,6 +24,9 @@ BEM.decl({ block: 'i-my-store', baseBlock: 'i-store' }, {
 
 });
 
+// Создадим хранилище, оно сделано по типу singleton.
+BEM.create('i-my-store');
+
 // Визуальный блок слушает событие обновления store
 BEM.DOM.decl('results', {
 
